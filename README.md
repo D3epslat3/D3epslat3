@@ -42,6 +42,10 @@
 
 ###
 
+<img align="right" height="200" src="https://cdn.discordapp.com/attachments/893652683209191458/1391854782662180894/ezgif.com-animated-gif-maker.gif?ex=686d6947&is=686c17c7&hm=0b8d38cce7a5ca835dcecb84627e3dd466cfe4f420b871ed5153c429feb31de4&"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D3epslat3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3epslat3&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
